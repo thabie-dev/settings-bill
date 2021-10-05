@@ -1,0 +1,22 @@
+.box {
+  padding: 0.75em;
+  border-radius : 0.5em;
+  border : 1px solid hsl(0, 9%, 86%);
+  height: auto;
+  margin-bottom: 1em;
+}
+
+.warning {
+  color: rgb(104, 70, 6);
+  font-weight: bold;
+}
+
+.danger {
+  color: rgb(143, 58, 75);
+  font-weight: bold;
+}
+
+.total {
+  font-weight: bold;
+  font-size: 2em;
+}
